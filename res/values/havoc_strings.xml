@@ -843,6 +843,12 @@
     <string name="qs_header_background_title">Statusbar background</string>
     <string name="qs_header_background_black">Black</string>
     <string name="qs_header_background_transparent">Transparent</string>
+    
+    <!-- QS Header data uasge -->
+    <string name="qs_datausage_title">Data usage in QS Header</string>
+    <string name="qs_datausage_disabled">Disabled</string>
+    <string name="qs_datausage_daily">Daily usage</string>
+    <string name="qs_datausage_monthly">Monthly usage</string>
 
     <!-- Notification count -->
     <string name="status_bar_notif_count_title">Notification count</string>
